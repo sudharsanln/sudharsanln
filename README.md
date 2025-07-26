@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm LN Sudharsan 👋
 
-<!--
-**sudharsanln/sudharsanln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year CS undergrad passionate about full-stack development, AI, and building impactful tech.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🤖 **College Chatbot** – RAG-based chatbot built with FastAPI, LangChain, and React
+- 📊 **Speech-based Emotion Classification** – ML pipeline that classifies human emotions from raw speech data using acoustic features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: `Java`, `Python`, `C`, `JavaScript`, `SQL`, `C++`
+- Tools & Frameworks: `React`, `FastAPI`, `MongoDB`, `Git`, `VSCode`
+- Interests: Data Analytics, Web Development, Automation, Problem-Solving
+
+## 📫 Contact Me
+- 📧 Mail : [lnsudhu2006@gmail.com](mailto:lnsudhu2006@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ln-sudharsan-0694302b3/)
+- 🐙 [GitHub](https://github.com/sudharsanln)
+
+---
+
+_Thanks for visiting my profile! Feel free to explore my pinned projects or reach out to collaborate._
