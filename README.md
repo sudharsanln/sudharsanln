@@ -5,7 +5,7 @@
 ## 🚀 Projects
 - 🤖 **College Chatbot** – RAG-based chatbot built with FastAPI, LangChain, and React
 - 📊 **Speech-based Emotion Classification** – ML pipeline that classifies human emotions from raw speech data using acoustic features.
-- 🎬 **CineBoxd** – A mini Letterboxd clone with full-stack movie logging, reviews, and watchlists using MySQL, Node.js, and React.JS
+- 🎬 **Movied** – A mini Letterboxd clone with full-stack movie logging, reviews, and watchlists using MySQL, Node.js, and React.JS
 
 ## 🛠️ Skills
 - Languages: `Java`, `Python`, `C`, `JavaScript`, `SQL`, `C++`
